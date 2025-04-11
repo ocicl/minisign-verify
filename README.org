@@ -1,0 +1,10 @@
+* minisign-verify
+
+A solution to the CL package manager bootstrapping problem
+
+|---------+----------------------------------------------|
+| source  | git:https://github.com/se-mz/minisign-verify |
+| commit  | f37c90c                                      |
+| systems | semz.minisign-verify                         |
+|---------+----------------------------------------------|
+
