@@ -4,7 +4,7 @@ A solution to the CL package manager bootstrapping problem
 
 |---------+----------------------------------------------|
 | source  | git:https://github.com/se-mz/minisign-verify |
-| commit  | f37c90c                                      |
+| commit  | 45eb298                                      |
 | systems | semz.minisign-verify                         |
 |---------+----------------------------------------------|
 
